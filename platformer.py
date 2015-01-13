@@ -1,4 +1,4 @@
-# Thanks to RootOfTheNull for 
+# Thanks to RootOfTheNull for inspiration
 import pygame
 
 from block import Block
